@@ -1,6 +1,6 @@
 # Hello World I'm Sebastian👋
 
-![Banner](https://drive.google.com/uc?export=view&id=1ec2XonW2535LnWa7ryzPF6ATGwrRU2a7)
+![Banner](banner.png)
 
 Hi, I’m a passionate Informatics student at SMK Galajuara. I’m deeply fascinated by the world of frontend development, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
 
