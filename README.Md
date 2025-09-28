@@ -16,17 +16,3 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
     <img src="https://skillicons.dev/icons?i=js,html,css,py" />
   </a>
 </p>
-
-## 🌏GitHub Stats
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" width="430" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="430" />
-</p>-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebsdvm/sebsdvm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebsdvm/sebsdvm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sebsdvm/sebsdvm/output/pacman-contribution-graph.svg">
-</picture>
